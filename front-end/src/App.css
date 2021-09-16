@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+}
+
+.app {
+  background-color: #fafafa;
+}
+
+.app__header {
+  object-fit: contain; /* Keeps the aspect ratio of the logo */
+  background-color: white;
+  padding: 20px;
+  border-bottom: 1px solid lightgray;
+}
